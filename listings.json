@@ -1,0 +1,212 @@
+[
+  {
+    "id": 2539,
+    "host": {
+      "id": 2787,
+      "name": "John",
+      "responseTime": "2023-12-01T12:00:00Z",
+      "responseRate": 0.9,
+      "listingsCount": 6,
+      "address": {
+        "street": "Unknown",
+        "city": "Brooklyn",
+        "state": "NY",
+        "country": "USA",
+        "postalCode": "Unknown",
+        "latitude": 40.64749,
+        "longitude": -73.97237
+      }
+    },
+    "address": {
+      "neighbourhood": {
+        "id": 2539,
+        "name": "Kensington",
+        "borough": {
+          "id": 2539,
+          "name": "Brooklyn"
+        }
+      },
+      "street": "Unknown",
+      "city": "Brooklyn",
+      "state": "NY",
+      "country": "USA",
+      "postalCode": "Unknown",
+      "latitude": 40.64749,
+      "longitude": -73.97237
+    },
+    "roomType": {
+      "id": 2539,
+      "name": "Private room",
+      "description": "A Private room in Kensington"
+    },
+    "name": "Clean & quiet apt home by the park",
+    "guestsIncluded": 1,
+    "price": 149,
+    "minimumNights": 1,
+    "availability": 365,
+    "numberOfReviews": 9,
+    "lastReview": "2018-10-19",
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Wifi"
+      },
+      {
+        "id": 2,
+        "name": "Kitchen"
+      }
+    ],
+    "photos": [
+      {
+        "id": 1,
+        "url": "http://example.com/photo1.jpg",
+        "description": "Living room"
+      },
+      {
+        "id": 2,
+        "url": "http://example.com/photo2.jpg",
+        "description": "Bedroom"
+      }
+    ]
+  },
+  {
+    "id": 2595,
+    "host": {
+      "id": 2845,
+      "name": "Jennifer",
+      "responseTime": "2023-12-01T12:00:00Z",
+      "responseRate": 0.9,
+      "listingsCount": 2,
+      "address": {
+        "street": "Unknown",
+        "city": "Manhattan",
+        "state": "NY",
+        "country": "USA",
+        "postalCode": "Unknown",
+        "latitude": 40.75362,
+        "longitude": -73.98377
+      }
+    },
+    "address": {
+      "neighbourhood": {
+        "id": 2595,
+        "name": "Midtown",
+        "borough": {
+          "id": 2595,
+          "name": "Manhattan"
+        }
+      },
+      "street": "Unknown",
+      "city": "Manhattan",
+      "state": "NY",
+      "country": "USA",
+      "postalCode": "Unknown",
+      "latitude": 40.75362,
+      "longitude": -73.98377
+    },
+    "roomType": {
+      "id": 2595,
+      "name": "Entire home/apt",
+      "description": "A Entire home/apt in Midtown"
+    },
+    "name": "Skylit Midtown Castle",
+    "guestsIncluded": 1,
+    "price": 225,
+    "minimumNights": 1,
+    "availability": 355,
+    "numberOfReviews": 45,
+    "lastReview": "2019-05-21",
+    "amenities": [
+      {
+        "id": 1,
+        "name": "Wifi"
+      },
+      {
+        "id": 3,
+        "name": "Air conditioning"
+      }
+    ],
+    "photos": [
+      {
+        "id": 3,
+        "url": "http://example.com/photo3.jpg",
+        "description": "Living room"
+      },
+      {
+        "id": 4,
+        "url": "http://example.com/photo4.jpg",
+        "description": "Bedroom"
+      }
+    ]
+  },
+  {
+    "id": 3647,
+    "host": {
+      "id": 4632,
+      "name": "Elisabeth",
+      "responseTime": "2023-12-01T12:00:00Z",
+      "responseRate": 0.9,
+      "listingsCount": 1,
+      "address": {
+        "street": "Unknown",
+        "city": "Manhattan",
+        "state": "NY",
+        "country": "USA",
+        "postalCode": "Unknown",
+        "latitude": 40.80902,
+        "longitude": -73.9419
+      }
+    },
+    "address": {
+      "neighbourhood": {
+        "id": 3647,
+        "name": "Harlem",
+        "borough": {
+          "id": 3647,
+          "name": "Manhattan"
+        }
+      },
+      "street": "Unknown",
+      "city": "Manhattan",
+      "state": "NY",
+      "country": "USA",
+      "postalCode": "Unknown",
+      "latitude": 40.80902,
+      "longitude": -73.9419
+    },
+    "roomType": {
+      "id": 3647,
+      "name": "Private room",
+      "description": "A Private room in Harlem"
+    },
+    "name": "THE VILLAGE OF HARLEM....NEW YORK !",
+    "guestsIncluded": 1,
+    "price": 150,
+    "minimumNights": 3,
+    "availability": 365,
+    "numberOfReviews": 0,
+    "lastReview": "None",
+    "amenities": [
+      {
+        "id": 2,
+        "name": "Kitchen"
+      },
+      {
+        "id": 4,
+        "name": "Heating"
+      }
+    ],
+    "photos": [
+      {
+        "id": 5,
+        "url": "http://example.com/photo5.jpg",
+        "description": "Living room"
+      },
+      {
+        "id": 6,
+        "url": "http://example.com/photo6.jpg",
+        "description": "Bedroom"
+      }
+    ]
+  }
+]

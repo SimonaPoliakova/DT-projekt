@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "bookingId": "1",
+    "amount": 745.0,
+    "paymentDate": "2024-01-10T00:00:00Z",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "id": 2,
+    "bookingId": "2",
+    "amount": 1125.0,
+    "paymentDate": "2024-01-10T00:00:00Z",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "id": 3,
+    "bookingId": "3",
+    "amount": 750.0,
+    "paymentDate": "2024-01-10T00:00:00Z",
+    "paymentMethod": "Credit Card"
+  }
+]

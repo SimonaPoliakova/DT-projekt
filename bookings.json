@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "listingId": "2539",
+    "user": {
+      "id": 1,
+      "firstName": "User1",
+      "lastName": "Last1",
+      "phone": "123-456-7890",
+      "email": "user1@example.com"
+    },
+    "checkIn": "2024-01-10",
+    "checkOut": "2024-01-15",
+    "noGuests": 2
+  },
+  {
+    "id": 2,
+    "listingId": "2595",
+    "user": {
+      "id": 2,
+      "firstName": "User2",
+      "lastName": "Last2",
+      "phone": "123-456-7890",
+      "email": "user2@example.com"
+    },
+    "checkIn": "2024-01-10",
+    "checkOut": "2024-01-15",
+    "noGuests": 2
+  },
+  {
+    "id": 3,
+    "listingId": "3647",
+    "user": {
+      "id": 3,
+      "firstName": "User3",
+      "lastName": "Last3",
+      "phone": "123-456-7890",
+      "email": "user3@example.com"
+    },
+    "checkIn": "2024-01-10",
+    "checkOut": "2024-01-15",
+    "noGuests": 2
+  }
+]

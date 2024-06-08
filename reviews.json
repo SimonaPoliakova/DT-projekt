@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "listingId": "2539",
+    "user": {
+      "id": 1,
+      "firstName": "User1",
+      "lastName": "Last1"
+    },
+    "rating": 4.5,
+    "comment": "Great place to stay!",
+    "reviewDate": "2024-01-16T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "listingId": "2595",
+    "user": {
+      "id": 2,
+      "firstName": "User2",
+      "lastName": "Last2"
+    },
+    "rating": 4.0,
+    "comment": "Very comfortable.",
+    "reviewDate": "2024-02-11T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "listingId": "3647",
+    "user": {
+      "id": 3,
+      "firstName": "User3",
+      "lastName": "Last3"
+    },
+    "rating": 3.5,
+    "comment": "Good for the price.",
+    "reviewDate": "2024-03-06T00:00:00Z"
+  }
+]
